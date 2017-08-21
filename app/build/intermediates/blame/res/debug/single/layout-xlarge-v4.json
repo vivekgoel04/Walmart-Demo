@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/layout-xlarge-v4/recycler_list.xml",
+        "source": "/Users/vivekgoel/Desktop/WalmartDemo/app/src/main/res/layout-xlarge/recycler_list.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/layout-xlarge-v4/search_layout.xml",
+        "source": "/Users/vivekgoel/Desktop/WalmartDemo/app/src/main/res/layout-xlarge/search_layout.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/layout-xlarge-v4/layout_loading_item.xml",
+        "source": "/Users/vivekgoel/Desktop/WalmartDemo/app/src/main/res/layout-xlarge/layout_loading_item.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/layout-xlarge-v4/detail_fragment.xml",
+        "source": "/Users/vivekgoel/Desktop/WalmartDemo/app/src/main/res/layout-xlarge/detail_fragment.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/layout-xlarge-v4/layout_user_item.xml",
+        "source": "/Users/vivekgoel/Desktop/WalmartDemo/app/src/main/res/layout-xlarge/layout_user_item.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/layout-xlarge-v4/layout_similarmovie_loading_item.xml",
+        "source": "/Users/vivekgoel/Desktop/WalmartDemo/app/src/main/res/layout-xlarge/layout_similarmovie_loading_item.xml"
+    }
+]

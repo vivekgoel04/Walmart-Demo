@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi/icon_calendar.png",
+        "source": "/Users/vivekgoel/Desktop/WalmartDemo/app/src/main/res/mipmap-hdpi/icon_calendar.png"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi/no_image.png",
+        "source": "/Users/vivekgoel/Desktop/WalmartDemo/app/src/main/res/mipmap-hdpi/no_image.png"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi/home.png",
+        "source": "/Users/vivekgoel/Desktop/WalmartDemo/app/src/main/res/mipmap-hdpi/home.png"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/vivekgoel/Desktop/WalmartDemo/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi/star_gold.png",
+        "source": "/Users/vivekgoel/Desktop/WalmartDemo/app/src/main/res/mipmap-hdpi/star_gold.png"
+    }
+]

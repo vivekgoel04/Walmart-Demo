@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

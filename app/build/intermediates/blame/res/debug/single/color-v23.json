@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/446e06ff3284d2947cbee38432d47934fa9685b6/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/color-v23/abc_tint_spinner.xml"
+    }
+]

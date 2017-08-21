@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/vivekgoel/.android/build-cache/af032bb8962af72f7b883b9569ed0ba49d96a628/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

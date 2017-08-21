@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi/star_gold.png",
+        "source": "/Users/vivekgoel/Desktop/WalmartDemo/app/src/main/res/mipmap-xhdpi/star_gold.png"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi/no_image.png",
+        "source": "/Users/vivekgoel/Desktop/WalmartDemo/app/src/main/res/mipmap-xhdpi/no_image.png"
+    },
+    {
+        "merged": "/Users/vivekgoel/Desktop/WalmartDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi/icon_calendar.png",
+        "source": "/Users/vivekgoel/Desktop/WalmartDemo/app/src/main/res/mipmap-xhdpi/icon_calendar.png"
+    }
+]
